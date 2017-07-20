@@ -1,0 +1,25 @@
+.parent{
+	height: 200px;
+	width: 100%;
+	background-color: yellow;
+}
+.child1{
+	height: 150px;
+    width:20%;
+    background-color: red;
+    float: left;
+}
+
+.child2{
+	height: 150px;
+    width:50%;
+    background-color: blue;
+    float: left;
+}
+
+.child3{
+	height: 150px;
+    width:30%;
+    background-color: pink;
+    float: left;
+}

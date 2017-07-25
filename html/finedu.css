@@ -1,0 +1,187 @@
+#banner{
+	background-image:url(photos/Meeting.jpg);
+    height: 350px;
+    position: relative;
+}
+#header{
+	height: 25px;
+    padding-left: 90px;
+    background-color: white;
+}
+#logo{
+	float: left;
+	//padding: 20px;
+	cursor: pointer;
+
+}
+#menu-bar{
+   margin: 0 auto;
+    width: 80%;
+    height: 51px;
+    padding-left: 78px;
+
+}
+.menu-bar-options{
+float: left;
+padding-left: 20px;
+cursor: pointer;
+}
+.menu-bar-options:hover{
+	border-bottom: 5px solid blue;
+	font-size:20px;
+
+}
+#banner-footer{
+	 position: absolute;
+    bottom: 0%;
+    /* left: 35%; */
+    text-align: center;
+    width: 100%;
+    background-color: darkgray;
+    
+    font-size: xx-large;
+    color: white;
+    height: 54px;
+
+}
+#intro-container-para{
+	width: 40%;
+    float: left;
+
+}
+#intro-container{
+	
+    height: 422px;
+background-color: dimgrey;
+width:94%;
+margin:0 auto;
+margin-top: 50px;
+}
+#intro-container-image{
+	width: 30%;
+    margin-left: 150px;
+    float: left;
+    margin-top: 20px;
+}
+#USP{
+    height: 278px;
+    padding-left: 50px;
+    background-color: dimgrey;
+    margin-top: 50px;
+    width: 91%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+#USP-para{
+	    float: left;
+    width: 50%;
+
+}
+#USP-image{
+	    width: 35%;
+    float: left;
+    margin-top: 20px;
+
+}
+#finedu-at-schools{
+	height: 368px;
+    width: 95%;
+    background-color: dimgrey;
+    margin-top: 30px;
+    margin: 0 auto;
+    margin-top: 30px;
+
+}
+#finedu-at-schools-image{
+	float: left;
+    width: 42%;
+    height: 347px;
+    padding-left: 71px;
+    margin-top: 20px;
+
+}
+#finedu-at-schools-para{
+	width: 49%;
+    float: right;
+
+}
+#team{
+	margin-top: 30px;
+	background-color: darkmagenta;
+    height: 380px;
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 95%;
+}
+
+#team-members{
+	
+    width: 30%;
+    height: 254px;
+    margin: 0 auto;
+   padding-left: 60px;
+
+  }
+#member-photo1{
+   width: 40%;
+    height: 50%;
+    float: left;
+    background-color: white;
+
+}
+#member-photo2{
+     width: 40%;
+    height: 50%;
+    float: left;
+    margin-left: 10px;
+    background-color: white;
+}
+#member-name1{
+ height: 18%;
+    width: 39.5%;
+    float: left;
+    text-align: center;
+    border:1px solid white;
+    border-top: none;
+     padding-top: 25px;
+     color: white;
+     font-family: sans-serif;
+
+    
+
+}
+#member-name2{
+	height: 18%;
+    width: 39.5%;
+    float: left;
+    text-align: center;
+    
+    margin-left: 10px;
+     border:1px solid white;
+    border-top: none;
+    padding-top: 25px;
+    color: white;
+    font-family: sans-serif;
+
+}
+#feedback{
+	width: 70%;
+    margin: 0 auto;
+    margin-top: 30px;
+    height: 310px;
+
+}
+#feedback-form{
+	float: left;
+	border-color: 1px solid;
+	width:60%;
+
+}
+#partners{
+	width: 263px;
+	text-align: center;
+    float: left;
+    margin-top: 25px;
+	
+
+}

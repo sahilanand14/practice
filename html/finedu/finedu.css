@@ -4,21 +4,24 @@
     position: relative;
 }
 #header{
-	height: 25px;
-    padding-left: 90px;
+	//height: 25px;
+   
     background-color: white;
+    padding: 6px;
 }
 #logo{
 	float: left;
 	//padding: 20px;
 	cursor: pointer;
+     padding-left: 90px;
 
 }
 #menu-bar{
    margin: 0 auto;
     width: 80%;
-    height: 51px;
+   // height: 51px;
     padding-left: 78px;
+    float: left;
 
 }
 .menu-bar-options{
@@ -26,9 +29,9 @@ float: left;
 padding-left: 20px;
 cursor: pointer;
 }
-.menu-bar-options:hover{
+#a:hover{
 	border-bottom: 5px solid blue;
-	font-size:20px;
+	//font-size:20px;
 
 }
 #banner-footer{
@@ -37,12 +40,12 @@ cursor: pointer;
     /* left: 35%; */
     text-align: center;
     width: 100%;
-    background-color: darkgray;
+    background-color: rgba(169, 169, 169, 0.72);;
     
     font-size: xx-large;
     color: white;
-    height: 54px;
-
+    //height: 54px;
+      padding: 5px;
 }
 #intro-container-para{
 	width: 40%;
@@ -51,11 +54,12 @@ cursor: pointer;
 }
 #intro-container{
 	
-    height: 422px;
+    //height: 422px;
 background-color: dimgrey;
-width:94%;
+//width:94%;
 margin:0 auto;
 margin-top: 50px;
+border:2 px solid;
 }
 #intro-container-image{
 	width: 30%;
@@ -64,13 +68,14 @@ margin-top: 50px;
     margin-top: 20px;
 }
 #USP{
-    height: 278px;
+   // height: 278px;
     padding-left: 50px;
     background-color: dimgrey;
     margin-top: 50px;
-    width: 91%;
+  //  width: 91%;
     margin: 0 auto;
     margin-top: 50px;
+    //clear: both;
 }
 #USP-para{
 	    float: left;
@@ -84,18 +89,19 @@ margin-top: 50px;
 
 }
 #finedu-at-schools{
-	height: 368px;
-    width: 95%;
+	//height: 368px;
+    //width: 95%;
     background-color: dimgrey;
     margin-top: 30px;
     margin: 0 auto;
     margin-top: 30px;
+    //clear: both;
 
 }
 #finedu-at-schools-image{
 	float: left;
-    width: 42%;
-    height: 347px;
+    //width: 42%;
+    //height: 347px;
     padding-left: 71px;
     margin-top: 20px;
 
@@ -108,10 +114,11 @@ margin-top: 50px;
 #team{
 	margin-top: 30px;
 	background-color: darkmagenta;
-    height: 380px;
+   // height: 380px;
     margin: 0 auto;
     margin-top: 30px;
-    width: 95%;
+    //width: 95%;
+   // clear: both;
 }
 
 #team-members{
